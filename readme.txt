@@ -1,2 +1,3 @@
 learn Git first Day 
-now change the content of this txt 
+now change the content of this txt
+change again 
